@@ -1,9 +1,9 @@
 # HI 👋, Natthan here!
-I'm a Thai Developer base in Bangkok. I enjoy problem-solving, effective communication and learning to expand my world view. Problem-solving and helping hand always give me a sense of accomplishment and joy. So if you have any question feel free to fire away!
+I'm a Thai Developer base in Bangkok. I enjoy problem-solving and learning to expand my world view. Problem-solving and helping hand always give me a sense of accomplishment and joy. So if you have any question feel free to fire away!
 
-As a Front-dev. Currently I'm enjoying some Back-end development in Golang as it a very enjoyalbe language to write and in my opinion, a great error handling system compare to JavaScript. I think you should give it a try!
+💭 As a Front-dev. Currently I'm enjoying some Back-end development in Golang as it a very enjoyable language to write and in my opinion, a great error handling system compare to JavaScript. So if you interested in Back-end Dev', I think you should give it a try!
 
-In addition to Full-Stack Development, I am interested in Software Architecture, Cloud, Artifical Intelligence, Personal Finance, Investment, Japanese and Effective Communitaction!
+🌱 In addition to Full-Stack Development, I am interested in Software Architecture, Cloud, Artifical Intelligence, Personal Finance, Investment, Japanese and Effective Communitaction!
 ## 📫 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alberu.ndc) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natthadecha-kijsamrej-aab4972a1) 
