@@ -1,5 +1,5 @@
 # HI 👋, Natthan here!
-I'm a Thai Developer base in Bangkok. I enjoy problem-solving and learning to expand my world view. Problem-solving and helping hand always give me a sense of accomplishment and joy. So if you have any question feel free to fire away!
+I'm a Thai Developer base in Bangkok. I enjoy problem-solving and learning to expand my world view. Problem-solving and helping hand always give me a sense of fulfillment and joy. So if you have any question feel free to fire away!
 
 💭 As a Front-dev. Currently I'm enjoying some Back-end development in Golang as it a very enjoyable language to write and in my opinion, a great error handling system compare to JavaScript. So if you interested in Back-end Dev', I think you should give it a try!
 
